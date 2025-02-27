@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create and
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- LinkedIn: [Gagan Chatu](https://www.linkedin.com/in/gaganchowdarychatu)
 - Personal Website: [Portfolio](https://my-portfolio-gagan-c.vercel.app/)
 
 
