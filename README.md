@@ -1,9 +1,26 @@
-- 👋 Hi, I’m Gagan
-- 👀 I’m interested in helping open source community
-- I'm learning Node.Js.
-- 💞️ I’m looking to collaborate on Java EE, Spring Boot realted projects
+# Hi there, I'm Gagan 👋
 
-<!---
-gaganchatu/gaganchatu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a passionate developer who loves to create and contribute to open-source projects. Here you'll find a variety of projects that I've worked on, ranging from web development to crypto and beyond.
+
+## 🛠️ Technologies & Tools
+
+- Programming Languages: C++, Java, Python, C#
+- Frameworks: Spring Boot, ReactJS, .NET Core.
+- Tools: Swagger, Postman, Docker, Kubernetes, GitHub Actions
+- Platforms: Linux, OCI, AWS
+
+## 📊 GitHub Stats
+
+![Gagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gagan-C&show_icons=true&theme=radical)
+
+## 📫 Connect with Me
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- Personal Website: [Portfolio](https://my-portfolio-gagan-c.vercel.app/)
+
+
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
+
+---
+
+⭐️ From [Gagan-C](https://github.com/Gagan-C)
