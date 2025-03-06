@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create and
 
 - Programming Languages: C++, Java, Python, C#
 - Frameworks: Spring Boot, ReactJS, .NET Core.
-- Tools: Swagger, Postman, Docker, Kubernetes, GitHub Actions
+- Tools: Swagger, Postman, Docker, Kubernetes, GitHub Actions, SonarQube
 - Platforms: Linux, OCI, AWS
 
 ## 📊 GitHub Stats
