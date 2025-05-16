@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create and
 
 - LinkedIn: [Gagan Chatu](https://www.linkedin.com/in/gaganchowdarychatu)
 - Email: [gagan.chatu@proton.me](mailto:gagan.chatu@proton.me)
-- Personal Website: [Portfolio](https://my-portfolio-gagan-c.vercel.app/)
+- Personal Website: [www.gaganchatu.com](https://www.gaganchatu.com/)
 
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
