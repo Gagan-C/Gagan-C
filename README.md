@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create and
 
 ## 🛠️ Technologies & Tools
 
-- Programming Languages: C++, Java, Python, C#
+- Programming Languages: Python, Java, 
 - Frameworks: Spring Boot, React.js, Next.js
 - Tools: Swagger, Postman, Docker, Kubernetes, GitHub Actions, SonarQube
 - Platforms: Linux, OCI, AWS
@@ -15,7 +15,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create and
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Gagan Chatu](https://www.linkedin.com/in/gaganchowdarychatu)
 - Email: [gagan.chatu@proton.me](mailto:gagan.chatu@proton.me)
 - Personal Website: [www.gaganchatu.com](https://www.gaganchatu.com/)
 
